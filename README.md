@@ -16,9 +16,9 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/samuelribeiro93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelribeiro93" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-ribeiro-2505ab14b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-ribeiro-2505ab14b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-ribeiro-2505ab14b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-ribeiro-2505ab14b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/samuel.ribeiro.3950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/samuel.ribeiro.3950" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sam_goois/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sam_goois/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sam_goois/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sam_goois/" height="30" width="40" /></a>
 <a href="https://discord.gg/#3373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3373" height="30" width="40" /></a>
 </p>
 

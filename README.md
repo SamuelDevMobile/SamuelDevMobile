@@ -27,4 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueldevmobile&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="samueldevmobile" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samueldevmobile&show_icons=true&locale=en&theme=tokyonight" alt="samueldevmobile" /></p>

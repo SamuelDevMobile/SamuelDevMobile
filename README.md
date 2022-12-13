@@ -12,7 +12,7 @@
 
 - 📫 Como entrar em contato comigo **samuelribeiro9@icloud.com**
 
-- ⚡ Fato engraçado **Toddy é melhor que Nescau**
+- ⚡ Fato engraçado **Toddy é melhor que Nescau =)**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

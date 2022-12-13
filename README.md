@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Olá 👋, Eu sou Samuel Ribeiro</h1>
 <h3 align="center">Seja muito Bem-Vindo ;)</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif">
 
 - 🔭 Atualmente estou trabalhando em **Itaú Unibanco**
@@ -27,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueldevmobile&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="samueldevmobile" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samueldevmobile&show_icons=true&locale=en&theme=tokyonight" alt="samueldevmobile" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samueldevmobile&show_icons=true&locale=en&theme=tokyonight" alt="samueldevmobile" /></p>
